@@ -25,13 +25,14 @@ h3.Taken{
   margin: 100px 10px 15px 10px;
 }
 
+img.Logo{
+  margin: 25px 10px 50px 20px;
+}
+
+
 img{
   margin-top: 25px;
   margin-bottom: 50px;
-}
-
-img.Logo{
-  margin: 25px 10px 50px 20px;
 }
 
 p{
