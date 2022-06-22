@@ -22,7 +22,7 @@ h3.Taken{
   font-size: 2em;
   font-weight: 300;
   text-align: center;
-  margin: 100px 10px 0 10px;
+  margin: 100px 10px 15px 10px;
 }
 
 img{
@@ -31,7 +31,7 @@ img{
 }
 
 img#Logo{
-  margin: 25px 10px 50px 10px;
+  margin: 25px 10px 50px 20px;
 }
 
 p{
