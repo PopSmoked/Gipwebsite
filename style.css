@@ -18,7 +18,7 @@ h2 {
 }
 
 #Afbeeldingen{
-  margin: 100px 10px 0 10px
+  margin-bottom: 100px;
 }
 
 p{
@@ -26,7 +26,6 @@ p{
   font-size: 1em;
   font-weight: 300;
   text-align: center;
-  margin: 100px 10px 0 10px;
 }
 
 li{
@@ -34,7 +33,6 @@ li{
   font-size: 1em;
   font-weight: 300;
   text-align: center;
-  margin: 100px 10px 0 10px;
 }
 
 body {
